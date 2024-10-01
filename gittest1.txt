@@ -1,2 +1,6 @@
 First git file  add text 
+ main
 addedd third row 
+=======
+Added row
+test
